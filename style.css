@@ -1,35 +1,17 @@
-#Section1,#HeaderLogo {
-    background-color: #1f2937;
-}
-#HeaderLogo {
-    margin-bottom: 0px;
-    padding: 5px;
-    font-size: 24px;
-}
-#HeaderLogo div {
-    font-size: 16px;
-}
-#Section1 {
-    font-size: 48px;
-    color: #F9FAF8;
-    display:flex;
+h4#HeaderLogo {
+    background-color: #1F2937;
+    margin: 0;
+    display: flex;
     flex-direction: column;
 }
 
-.placeholder {
-    font-size: 18px;
-    color: #E5E7EB;
-
-}
-#Section2 {
-    display:flex;
-    justify-content: space-between;
-}
-#Section3 {
-    background-color: #E5E7EB;
-    font-size: 36px;
+h3 {
+    font-size: 48px;
 }
 
-#button, #Section4 {
- background-color: #3882F6;
+#Section1 {
+    height: 700px;
+    margin:0%;
+    width: auto;
+    background-color: #1F2937;
 }
